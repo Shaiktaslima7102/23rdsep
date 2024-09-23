@@ -1,1 +1,5 @@
 c3
+<<<<<<< HEAD
+=======
+ modified again
+>>>>>>> ab5fa3b (all files modified in master)
